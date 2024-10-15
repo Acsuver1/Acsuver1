@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Acsuver
+- 👋 Hi, I’m Ahror Amonov  @Acsuver
 - 👀 I’m interested in web development, especially frontend technologies like React, Redux, and CSS frameworks such as Tailwind and Ant Design. I also enjoy exploring new design trends and UI/UX enhancements.
 - 🌱 I’m currently learning advanced state management in React with Redux Toolkit, as well as optimizing APIs for CRUD operations using RTK Query.
 - 💞️ I’m looking to collaborate on innovative web projects, especially those focused on frontend development, UI/UX design, and creating unique, interactive user experiences.
