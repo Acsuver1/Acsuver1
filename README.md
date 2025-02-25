@@ -1,12 +1,26 @@
-- 👋 Hi, I’m Ahror Amonov  @Acsuver
-- 👀 I’m interested in web development, especially frontend technologies like React, Redux, and CSS frameworks such as Tailwind and Ant Design. I also enjoy exploring new design trends and UI/UX enhancements.
-- 🌱 I’m currently learning advanced state management in React with Redux Toolkit, as well as optimizing APIs for CRUD operations using RTK Query.
-- 💞️ I’m looking to collaborate on innovative web projects, especially those focused on frontend development, UI/UX design, and creating unique, interactive user experiences.
-- 📫 How to reach me: You can reach me via email or on LinkedIn. (Emailing: akhroramonov@gmail.com | LinkedIn: https://www.linkedin.com/in/akhroramonov1/ )
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love combining technology and design to create beautiful and functional web applications, and I'm also a fan of minimalist design principles.
+<h1 align="center">Hi, I'm Ahror! 👋</h1>
 
-<!---
-Acsuver1/Acsuver1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔥 About Me
+- 🚀 Junior Frontend Developer specializing in React
+- 🖥️ Working with modern web technologies
+- 📖 Constantly learning and improving my skills
+- 📍 Based in Tashkent, Navoi, Uzbekistan
+- 🎯 Goal: Contributing to innovative web solutions
+
+## 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+## 🚀 Tech Stack:
+### Frontend:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### State Management & UI:
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
