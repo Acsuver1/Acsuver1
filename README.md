@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahror! 👋</h1>
 
 ## 🔥 About Me
-- 🚀 Junior Frontend Developer specializing in React
+- 🚀  Frontend Developer specializing in React
 - 🖥️ Working with modern web technologies
 - 📖 Constantly learning and improving my skills
 - 📍 Based in Tashkent, Navoi, Uzbekistan
